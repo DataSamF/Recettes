@@ -9,7 +9,7 @@ library(thematic)
 library(shinylive)
 library(rsconnect)
 library(credentials)
-
+# 
 ui <- fluidPage(
   theme = bs_theme(version = 5, bootswatch = "lux"),
   titlePanel("Recette de Cookies"),
